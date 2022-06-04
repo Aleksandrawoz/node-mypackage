@@ -1,0 +1,11 @@
+{
+  "name": "node-mypackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aleksandrawoz/node-mypackage.git",
+  "author": "ola wozniak <olawozniak551@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "your-package-name": "^0.0.0"
+  }
+}
